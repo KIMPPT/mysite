@@ -3,7 +3,7 @@ import detail from "../css/Detail.module.scss";
 
 export default function Detail() {
   return (
-    <div className={detail["main"]}>
+    <div className={detail["main"]} id="detail">
       <h3> 사용가능 기능들</h3>
       <div className={detail['available']}>
         <span>사용가능기능</span>
