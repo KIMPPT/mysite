@@ -22,9 +22,13 @@ export default function Project() {
         </li>
       </ul>
       <h3>기타 페이지</h3>
-      <a href="https://github.com/KIMPPT" target="_blank">github페이지</a>
+      <a href="https://github.com/KIMPPT" target="_blank">
+        github페이지
+      </a>
       <br />
-      <a href="https://kimsppt.com"target="_blank">wordpress사이트</a>
+      <a href="https://kimsppt.com" target="_blank">
+        wordpress사이트
+      </a>
     </div>
   );
 }
