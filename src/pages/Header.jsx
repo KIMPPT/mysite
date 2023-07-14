@@ -10,7 +10,7 @@ export default function Header() {
     window.addEventListener("scroll", updateScroll);
   });
   return (
-    <div className={header[scrollPosition < 25 ? 'box':'box2']}>
+    <div className={header[scrollPosition < 25 ? 'box':'box2']} >
       <div className={header["main"]}>
         <Link to="introduce" spy={true} smooth={true}>
           자기소개
@@ -23,7 +23,7 @@ export default function Header() {
         </Link>
       </div>
       <div className={header[scrollPosition < 25 ? 'top':'top2']}>
-        top
+        <Link to="top" spy={true} smooth={true}><div>top</div></Link>
       </div>
     </div>
   );

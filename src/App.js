@@ -4,7 +4,7 @@ import Header from "./pages/Header";
 import Footer from "./pages/Footer";
 function App() {
   return (
-    <div className="App">
+    <div className="App" >
       <Header />
       <Main />
       <Footer />
