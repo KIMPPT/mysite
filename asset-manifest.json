@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KIMPPT/mysite/static/css/main.88684ee0.css",
+    "main.js": "/KIMPPT/mysite/static/js/main.104f6660.js",
+    "static/js/787.f587e8d5.chunk.js": "/KIMPPT/mysite/static/js/787.f587e8d5.chunk.js",
+    "index.html": "/KIMPPT/mysite/index.html",
+    "main.88684ee0.css.map": "/KIMPPT/mysite/static/css/main.88684ee0.css.map",
+    "main.104f6660.js.map": "/KIMPPT/mysite/static/js/main.104f6660.js.map",
+    "787.f587e8d5.chunk.js.map": "/KIMPPT/mysite/static/js/787.f587e8d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88684ee0.css",
+    "static/js/main.104f6660.js"
+  ]
+}
