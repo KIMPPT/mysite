@@ -15,7 +15,6 @@ export default function Introduce() {
         <img src="" alt="증명사진자리입니다" className={intro["image"]} />
         <ul className={intro["profile"]}>
           <li>이름 : 김영환</li>
-          <li>생년월일 : 1993/03/18</li>
           <li>경력 : 신입</li>
           <li>
             사용가능기능 : <FontAwesomeIcon icon={faHtml5} />
